@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersonnect",
+        "uuid": 12216695,
+        "checksum": "rfyu7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
